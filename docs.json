@@ -33,7 +33,7 @@
       },
       {
         "tab": "API reference",
-        "openapi": "https://api.wraps.dev/swagger/json"
+        "openapi": "https://api.wraps.dev/openapi.json"
       }
     ]
   },
